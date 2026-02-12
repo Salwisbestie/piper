@@ -21,7 +21,28 @@ document.addEventListener("DOMContentLoaded", () => {
       { tipo: "video", src: "media/videos/oso12.mp4"},
       { tipo: "video", src: "media/videos/oso13.mp4"},      
       { tipo: "video", src: "media/videos/oso14.mp4"},
-      { tipo: "video", src: "media/videos/oso15.mp4"}
+      { tipo: "video", src: "media/videos/oso15.mp4"},
+      { tipo: "video", src: "media/videos/6222a033f94d513977c8e55e8f5db169.mp4"},
+{ tipo: "video", src: "media/videos/4f216fdcbb24451a6e1817e8ba92a5ed.mp4"},
+      { tipo: "video", src: "media/videos/939bfe7828c6476532cc54a1d4cb4605.mp4"},
+      { tipo: "video", src: "media/videos/90f0fefa9139c3741575d79e73ba1186.mp4"},
+{ tipo: "video", src: "media/videos/560044c2d88ea8eaecfa772eb019d695.mp4"},
+  { tipo: "video", src: "media/videos/6711d3c62e170e4b0add948f5115f6f9.mp4"}
+
+
+
+
+      
+
+      
+
+
+
+
+
+6dea321f8f390afb2d2601cf0c630b67.mp4
+0359104c12dc69c2ac05daf5338e9af5.mp4
+  
  ] };
 
   /* ===== ESTADO ===== */
@@ -141,4 +162,5 @@ popupsActivos.push(popup);
 
 
 });
+
 
