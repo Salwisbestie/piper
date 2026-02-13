@@ -23,11 +23,31 @@ document.addEventListener("DOMContentLoaded", () => {
       { tipo: "video", src: "media/videos/oso14.mp4"},
       { tipo: "video", src: "media/videos/oso15.mp4"},
       { tipo: "video", src: "media/videos/6222a033f94d513977c8e55e8f5db169.mp4"},
-{ tipo: "video", src: "media/videos/4f216fdcbb24451a6e1817e8ba92a5ed.mp4"},
+      { tipo: "video", src: "media/videos/4f216fdcbb24451a6e1817e8ba92a5ed.mp4"},
       { tipo: "video", src: "media/videos/939bfe7828c6476532cc54a1d4cb4605.mp4"},
       { tipo: "video", src: "media/videos/90f0fefa9139c3741575d79e73ba1186.mp4"},
-{ tipo: "video", src: "media/videos/560044c2d88ea8eaecfa772eb019d695.mp4"},
-  { tipo: "video", src: "media/videos/6711d3c62e170e4b0add948f5115f6f9.mp4"}
+      { tipo: "video", src: "media/videos/560044c2d88ea8eaecfa772eb019d695.mp4"},
+      { tipo: "video", src: "media/videos/6711d3c62e170e4b0add948f5115f6f9.mp4"},
+      { tipo: "video", src: "media/videos/b7d715c2cb0287128d72bf7a995abd7b.mp4" },
+      { tipo: "video", src: "media/videos/1c3da1907fc213c526d286bc98c2287e.mp4" },
+      { tipo: "video", src: "media/videos/960e37421dedb6339a2e6d746a4a85e7.mp4" },
+      { tipo: "video", src: "media/videos/c065ab93b8a5f225ca3fcb25d8662569.mp4" },
+      { tipo: "video", src: "media/videos/921c76bb1e7f9e8f8e6918f2c4e25a2e.mp4" },
+      { tipo: "video", src: "media/videos/6113832afcebcd5a0980215c87c9efb1.mp4" },
+      { tipo: "video", src: "media/videos/ba023795024c27543e9e3fd2790a6857.mp4" },
+      { tipo: "video", src: "media/videos/98e4f7419301a90ccf63b794a30df14e.mp4" },
+      { tipo: "video", src: "media/videos/oso9.mp4" },
+      { tipo: "video", src: "media/videos/oso10.mp4"},
+      { tipo: "video", src: "media/videos/oso11.mp4"},      
+      { tipo: "video", src: "media/videos/oso12.mp4"},
+      { tipo: "video", src: "media/videos/oso13.mp4"},      
+      { tipo: "video", src: "media/videos/oso14.mp4"},
+      { tipo: "video", src: "media/videos/oso15.mp4"},
+      { tipo: "video", src: "media/videos/6222a033f94d513977c8e55e8f5db169.mp4"},
+      { tipo: "video", src: "media/videos/4f216fdcbb24451a6e1817e8ba92a5ed.mp4"},
+      { tipo: "video", src: "media/videos/939bfe7828c6476532cc54a1d4cb4605.mp4"},
+      { tipo: "video", src: "media/videos/90f0fefa9139c3741575d79e73ba1186.mp4"},
+      { tipo: "video", src: "media/videos/560044c2d88ea8eaecfa772eb019d695.mp4"},
 
 
 
@@ -37,20 +57,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 
-c065ab93b8a5f225ca3fcb25d8662569.mp4
-921c76bb1e7f9e8f8e6918f2c4e25a2e.mp4
-6113832afcebcd5a0980215c87c9efb1.mp4
-98e4f7419301a90ccf63b794a30df14e.mp4
-ba023795024c27543e9e3fd2790a6857.mp4
 c05ef0d3248990e7878903b6d2818083.mp4
 98d818ec99248dcd1841d1171be41ab6.mp4
-
-
-
-      
-
 77e6502d68f3da3bc7762f43dfcb0b4c.mp4
-72f9cfa22ea4573281ac8b647aad6aaf.mp4
+
 7f381746ace4fbd61aba0ac302555b14.mp4
 720e0e28535460b2eb7d6641157d8753.mp4
 0a860c218d541aec985fd7f3c9fb5077.mp4
@@ -198,6 +208,7 @@ popupsActivos.push(popup);
 
 
 });
+
 
 
 
