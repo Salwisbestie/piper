@@ -36,47 +36,31 @@ document.addEventListener("DOMContentLoaded", () => {
       { tipo: "video", src: "media/videos/6113832afcebcd5a0980215c87c9efb1.mp4" },
       { tipo: "video", src: "media/videos/ba023795024c27543e9e3fd2790a6857.mp4" },
       { tipo: "video", src: "media/videos/98e4f7419301a90ccf63b794a30df14e.mp4" },
+      { tipo: "video", src: "media/videos/72f9cfa22ea4573281ac8b647aad6aaf.mp4" },
+      { tipo: "video", src: "media/videos/c05ef0d3248990e7878903b6d2818083.mp4"},
+      { tipo: "video", src: "media/videos/98d818ec99248dcd1841d1171be41ab6.mp4"},      
+      { tipo: "video", src: "media/videos/77e6502d68f3da3bc7762f43dfcb0b4c.mp4"},
+      { tipo: "video", src: "media/videos/7f381746ace4fbd61aba0ac302555b14.mp4"},      
+      { tipo: "video", src: "media/videos/720e0e28535460b2eb7d6641157d8753.mp4"},
+      { tipo: "video", src: "media/videos/0a860c218d541aec985fd7f3c9fb5077.mp4"},
+      { tipo: "video", src: "media/videos/94c952d14f1cda3cfd39763fea2355b3.mp4"},
+      { tipo: "video", src: "media/videos/a72181cd657049719d0fb4d2516920f8.mp4"},
+      { tipo: "video", src: "media/videos/d4034073e15b74dacca8deca8d95c3b7.mp4"},
+      { tipo: "video", src: "media/videos/68e5ffab2e9da8f482c7fda4cb8437dc.mp4"},
+      { tipo: "video", src: "media/videos/3a494757c2510534ab2d9c0d1a02b2db.mp4"},
+      { tipo: "video", src: "media/videos/oso1.mp4" },
+      { tipo: "video", src: "media/videos/oso2.mp4" },
+      { tipo: "video", src: "media/videos/oso3.mp4" },
+      { tipo: "video", src: "media/videos/oso4.mp4" },
+      { tipo: "video", src: "media/videos/oso5.mp4" },
+      { tipo: "video", src: "media/videos/oso6.mp4" },
+      { tipo: "video", src: "media/videos/oso7.mp4" },
+      { tipo: "video", src: "media/videos/oso8.mp4" },
       { tipo: "video", src: "media/videos/oso9.mp4" },
       { tipo: "video", src: "media/videos/oso10.mp4"},
-      { tipo: "video", src: "media/videos/oso11.mp4"},      
-      { tipo: "video", src: "media/videos/oso12.mp4"},
-      { tipo: "video", src: "media/videos/oso13.mp4"},      
-      { tipo: "video", src: "media/videos/oso14.mp4"},
-      { tipo: "video", src: "media/videos/oso15.mp4"},
-      { tipo: "video", src: "media/videos/6222a033f94d513977c8e55e8f5db169.mp4"},
-      { tipo: "video", src: "media/videos/4f216fdcbb24451a6e1817e8ba92a5ed.mp4"},
-      { tipo: "video", src: "media/videos/939bfe7828c6476532cc54a1d4cb4605.mp4"},
-      { tipo: "video", src: "media/videos/90f0fefa9139c3741575d79e73ba1186.mp4"},
-      { tipo: "video", src: "media/videos/560044c2d88ea8eaecfa772eb019d695.mp4"},
 
 
 
-
-
-
-
-
-
-c05ef0d3248990e7878903b6d2818083.mp4
-98d818ec99248dcd1841d1171be41ab6.mp4
-77e6502d68f3da3bc7762f43dfcb0b4c.mp4
-
-7f381746ace4fbd61aba0ac302555b14.mp4
-720e0e28535460b2eb7d6641157d8753.mp4
-0a860c218d541aec985fd7f3c9fb5077.mp4
-a72181cd657049719d0fb4d2516920f8.mp4
-d4034073e15b74dacca8deca8d95c3b7.mp4
-68e5ffab2e9da8f482c7fda4cb8437dc.mp4
-
-      
-
-      
-
-
-
-
-94c952d14f1cda3cfd39763fea2355b3.mp4
-3a494757c2510534ab2d9c0d1a02b2db.mp4
 d7a422ec597b7a52e1a9927a2eca0e21.mp4
 3990ba9ac77c601d5cee3b5761e86ced.mp4
 6d9e932b9ca0858f16a7bbc9665bb9a0.mp4
@@ -208,6 +192,7 @@ popupsActivos.push(popup);
 
 
 });
+
 
 
 
