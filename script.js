@@ -48,30 +48,24 @@ document.addEventListener("DOMContentLoaded", () => {
       { tipo: "video", src: "media/videos/d4034073e15b74dacca8deca8d95c3b7.mp4"},
       { tipo: "video", src: "media/videos/68e5ffab2e9da8f482c7fda4cb8437dc.mp4"},
       { tipo: "video", src: "media/videos/3a494757c2510534ab2d9c0d1a02b2db.mp4"},
-      { tipo: "video", src: "media/videos/oso1.mp4" },
-      { tipo: "video", src: "media/videos/oso2.mp4" },
-      { tipo: "video", src: "media/videos/oso3.mp4" },
-      { tipo: "video", src: "media/videos/oso4.mp4" },
-      { tipo: "video", src: "media/videos/oso5.mp4" },
-      { tipo: "video", src: "media/videos/oso6.mp4" },
-      { tipo: "video", src: "media/videos/oso7.mp4" },
-      { tipo: "video", src: "media/videos/oso8.mp4" },
-      { tipo: "video", src: "media/videos/oso9.mp4" },
-      { tipo: "video", src: "media/videos/oso10.mp4"},
+      { tipo: "video", src: "media/videos/d7a422ec597b7a52e1a9927a2eca0e21.mp4" },
+      { tipo: "video", src: "media/videos/3990ba9ac77c601d5cee3b5761e86ced.mp4" },
+      { tipo: "video", src: "media/videos/6d9e932b9ca0858f16a7bbc9665bb9a0.mp4" },
+      { tipo: "video", src: "media/videos/98f7ebccd41546d4684cea15e6d7d307.mp4" },
+      { tipo: "video", src: "media/videos/01e4502ca98f25707a4124be794af236.mp4" },
+      { tipo: "video", src: "media/videos/a704fe288deff1854a8c3347cb54a2af.mp4" },
+      { tipo: "video", src: "media/videos/4aade6be9e839d68364ed6de6aac29d4.mp4" },
+      { tipo: "video", src: "media/videos/ea447bdd20c7aa51a3957240bceefa1f.mp4" },
+      { tipo: "video", src: "media/videos/6dea321f8f390afb2d2601cf0c630b67.mp4" },
+      { tipo: "video", src: "media/videos/0359104c12dc69c2ac05daf5338e9af5.mp4"}
 
 
 
-d7a422ec597b7a52e1a9927a2eca0e21.mp4
-3990ba9ac77c601d5cee3b5761e86ced.mp4
-6d9e932b9ca0858f16a7bbc9665bb9a0.mp4
-98f7ebccd41546d4684cea15e6d7d307.mp4
-01e4502ca98f25707a4124be794af236.mp4
-a704fe288deff1854a8c3347cb54a2af.mp4
-4aade6be9e839d68364ed6de6aac29d4.mp4
-ea447bdd20c7aa51a3957240bceefa1f.mp4
+
+
   
-6dea321f8f390afb2d2601cf0c630b67.mp4
-0359104c12dc69c2ac05daf5338e9af5.mp4
+
+
   
  ] };
 
@@ -192,6 +186,7 @@ popupsActivos.push(popup);
 
 
 });
+
 
 
 
