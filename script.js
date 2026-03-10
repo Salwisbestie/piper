@@ -121,7 +121,7 @@ btn.addEventListener("click", () => {
         btn.style.opacity = "0.5"; 
         primeraVez = false;
     }
-  if (popupsActivos.length >= 4) {
+  if (popupsActivos.length >= 10) {
         const viejo = popupsActivos.shift(); // Saca el primero de la lista (el más antiguo)
         if (viejo) viejo.remove(); // Lo elimina del DOM
     }
@@ -186,6 +186,7 @@ popupsActivos.push(popup);
 
 
 });
+
 
 
 
